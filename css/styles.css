@@ -131,25 +131,25 @@
      * (https://maketintsandshades.com/)
      */
   --color-black: #000000;
-  --color-gray-19: #00000d;
-  --color-gray-18: #00001a;
-  --color-gray-17: #000026;
-  --color-gray-16: #000033;
-  --color-gray-15: #000040;
-  --color-gray-14: #00004d;
-  --color-gray-13: #00005a;
-  --color-gray-12: #000066;
-  --color-gray-11: #000073;
-  --color-gray-10: #000080;
-  --color-gray-9: #1a1a8d;
-  --color-gray-8: #333399;
-  --color-gray-7: #4d4da6;
-  --color-gray-6: #6666b3;
-  --color-gray-5: #8080c0;
-  --color-gray-4: #9999cc;
-  --color-gray-3: #b3b3d9;
-  --color-gray-2: #cccce6;
-  --color-gray-1: #e6e6f2;
+  --color-gray-19: #040507;
+  --color-gray-18: #070a0f;
+  --color-gray-17: #0b0e16;
+  --color-gray-16: #0f131d;
+  --color-gray-15: #131825;
+  --color-gray-14: #161d2c;
+  --color-gray-13: #1a2233;
+  --color-gray-12: #1e263a;
+  --color-gray-11: #212b42;
+  --color-gray-10: #253049;
+  --color-gray-9: #3b455b;
+  --color-gray-8: #51596d;
+  --color-gray-7: #666e80;
+  --color-gray-6: #7c8392;
+  --color-gray-5: #9298a4;
+  --color-gray-4: #a8acb6;
+  --color-gray-3: #bec1c8;
+  --color-gray-2: #d3d6db;
+  --color-gray-1: #e9eaed;
   --color-white: #ffffff;
 
   /* text

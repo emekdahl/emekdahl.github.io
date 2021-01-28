@@ -4545,6 +4545,7 @@ button.btn--pill {
   font-size: 2.8rem;
   font-weight: 400;
   line-height: 1.286;
+  white-space: nowrap;
 }
 
 .contact-block a {
